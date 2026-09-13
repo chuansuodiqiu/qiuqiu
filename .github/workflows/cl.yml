@@ -1,4 +1,4 @@
-name: warpscout scan
+name: ws scan
 
 on:
   schedule:
